@@ -1,0 +1,5 @@
+Row 0 Average: 2.500000
+Row 1 Average: 6.500000
+Row 2 Average: 10.500000
+Row 3 Average: 14.500000
+Execution time: 1.138144 ms
